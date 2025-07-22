@@ -1,5 +1,8 @@
 ## Hi there i'm Akhil 👋
 
+
+I explore backend, database, and distributed systems by rebuilding their internals from scratch. These repos reflect that hands-on curiosity ⚡️
+
 <!--
 **Akhil-Desai/Akhil-Desai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
