@@ -1,4 +1,4 @@
-## Hi there i'm Akhil 👋
+## Hi! I'm Akhil 👋
 
 
 I explore backend, database, and distributed systems by rebuilding their internals from scratch. These repos reflect that hands-on curiosity.
